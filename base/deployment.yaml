@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: ghcr.io/amirbasre/demo-app:latest
+          image: ghcr.io/amirbasre/demo-app:ef162ccc8ac6d2f5a30c1e35ed901e6ab2b12f54@sha256:7f4bec84e761693869d2ee71adedf9d28e5a45260c0136555e85221bd402489e
           # env:
           # - name: SECRET
           #   valueFrom:

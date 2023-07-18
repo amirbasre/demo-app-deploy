@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/amirbasre/demo-app
-  newTag: latest
+  newTag: ef162ccc8ac6d2f5a30c1e35ed901e6ab2b12f54
